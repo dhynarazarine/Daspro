@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-09-28T06:25:04.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="H5CeOhcK5sj0R_HFRqjP" version="21.8.2" type="device">
+  <diagram name="Halaman-1" id="McU0HkywNXP45RtMioRv">
+    <mxGraphModel dx="1104" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="690" pageHeight="980" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H0toprz4VYru5Mo9MnY2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0toprz4VYru5Mo9MnY2-1" target="H0toprz4VYru5Mo9MnY2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0toprz4VYru5Mo9MnY2-2" target="H0toprz4VYru5Mo9MnY2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-2" value="String username = &quot;admin&quot;&lt;br&gt;int password = 123" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="150" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0toprz4VYru5Mo9MnY2-3" target="H0toprz4VYru5Mo9MnY2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-3" value="username&amp;nbsp;&lt;br&gt;password" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0toprz4VYru5Mo9MnY2-4" target="H0toprz4VYru5Mo9MnY2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0toprz4VYru5Mo9MnY2-4" target="H0toprz4VYru5Mo9MnY2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-4" value="ussername&lt;br&gt;valid" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="398" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-5" value="Harap cek kembali username dan password anda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="408" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H0toprz4VYru5Mo9MnY2-6" target="H0toprz4VYru5Mo9MnY2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-6" value="Selamat Anda Berhasil Login&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-7" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-14" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="392" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H0toprz4VYru5Mo9MnY2-15" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-8" y="478" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
